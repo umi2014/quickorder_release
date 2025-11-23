@@ -1,0 +1,30 @@
+[
+  {
+    "key": "SYS_ENV_SPA_URL",
+    "value": "http://localhost:8080/"
+  },
+  {
+    "key": "SYS_ENV_API_URL",
+    "value": "http://localhost:3000/"
+  },
+  {
+    "key": "SYS_ENV_API_TIMEOUT",
+    "value": "3000000"
+  },
+  {
+    "key": "SYS_ENV_COPYRIGHT",
+    "value": "Copyright(C)2024-2025 QuickOrder"
+  },
+  {
+    "key": "SYS_ENV_INQUIRY_STR",
+    "value": "問合せ先フォームへのリンク、ヘルプデスク連絡先、利用規約へのリンク等"
+  },
+  {
+    "key": "SYS_ENV_INQUIRY_URL",
+    "value": "https://#"
+  },
+  {
+    "key": "SYS_ENV_MODE",
+    "value": "DEBUG"
+  }
+]
