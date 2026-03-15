@@ -1,0 +1,68 @@
+{
+  "0": {
+    "header": {
+      "menu": "メニュー",
+      "filter": "絞り込み",
+      "category": "カテゴリー",
+      "orderHistory": "注文履歷"
+    },
+    "footer": {
+      "cart": "買い物かご"
+    },
+    "productDetail": {
+      "addToCart": "カートに入れる",
+      "addedToCart": "カートに追加しました",
+      "alreadyInCart": "この商品はすでにカートにあります"
+    },
+    "list": {
+      "addToCart": "カートに追加"
+    },
+    "cart": {
+      "empty": "選択された商品がありません",
+      "deleteConfirm": "該当商品を削除しますか？",
+      "commitConfirm": "オーダをコミットしますか？",
+      "commitSuccess": "オーダ完了しました。",
+      "total": "合計：",
+      "commitBtn": "オーダコミット"
+    },
+    "orderHistory": {
+      "unitPrice": "単価",
+      "quantity": "数量",
+      "reorder": "再注文",
+      "total": "合計："
+    }
+  },
+  "1": {
+    "header": {
+      "menu": "菜单",
+      "filter": "筛选",
+      "category": "类别",
+      "orderHistory": "订单履历"
+    },
+    "footer": {
+      "cart": "购物车"
+    },
+    "productDetail": {
+      "addToCart": "加入购物车",
+      "addedToCart": "已加入购物车",
+      "alreadyInCart": "购物车中已有该商品"
+    },
+    "list": {
+      "addToCart": "加入购物车"
+    },
+    "cart": {
+      "empty": "选择的商品为空",
+      "deleteConfirm": "确定要删除该商品吗？",
+      "commitConfirm": "确定要提交订单吗？",
+      "commitSuccess": "订单提交成功。",
+      "total": "合计：",
+      "commitBtn": "提交订单"
+    },
+    "orderHistory": {
+      "unitPrice": "单价",
+      "quantity": "数量",
+      "reorder": "加入购物车",
+      "total": "合计："
+    }
+  }
+}
