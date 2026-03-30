@@ -4,7 +4,11 @@
       "menu": "メニュー",
       "filter": "絞り込み",
       "category": "カテゴリー",
-      "orderHistory": "注文履歷"
+      "orderHistory": "注文履歷",
+      "milktea_home": "ホーム",
+      "milktea_menu": "点单",
+      "milktea_cart": "カート",
+      "milktea_profile": "マイページ"
     },
     "footer": {
       "cart": "買い物かご"
@@ -30,6 +34,38 @@
       "quantity": "数量",
       "reorder": "再注文",
       "total": "合計："
+    },
+    "milktea_home": {
+      "brand_title": "ブランド紹介",
+      "brand_subtitle": "Brand Introduction",
+      "brand_p1": "某某ミルクティー公式サイトは某某飲食管理有限公司傘下の茶飲料ブランドであり、皆様に加盟、条件、電話番号などの情報を提供します。私たちはミルクティー商品の製造と研究開発に注力し、消費者に深く愛されています。",
+      "brand_p2": "私たちがお客様と共有したいのはお茶の本当の味です。お客様に純粋で純正な良いお茶をお届けするために、チームは商品開発を重視し、本社に専門の研究所を設立しています。",
+      "brand_p3": "某某ミルクティー、家の味、幸せの味。日暮れに帰る場所、忘れ去られて久しいあの人情味のある美しい時代を取り戻しましょう！",
+      "btn_learn_more": "もっと詳しく",
+      "series_title": "商品カテゴリー",
+      "series_subtitle": "Product Categories",
+      "products_title": "商品センター",
+      "products_subtitle": "Product Center",
+      "shop_title": "店舗展示",
+      "shop_subtitle": "Shop Display",
+      "news_title": "ニュース",
+      "news_subtitle": "News",
+      "hotline_title": "加盟相談ダイヤル",
+      "loading": "ロード中または商品データがありません..."
+    },
+    "inventory": {
+      "dashboard": "在庫ダッシュボード",
+      "inbound": "入庫",
+      "outbound": "出庫",
+      "check": "棚卸",
+      "status_green": "安全",
+      "status_yellow": "期限間近",
+      "status_red": "期限切れ",
+      "sku": "SKU",
+      "unit": "単位",
+      "remaining_qty": "残数",
+      "expiry_date": "有効期限",
+      "reason": "理由"
     }
   },
   "1": {
@@ -37,7 +73,11 @@
       "menu": "菜单",
       "filter": "筛选",
       "category": "类别",
-      "orderHistory": "订单履历"
+      "orderHistory": "订单履历",
+      "milktea_home": "首页",
+      "milktea_menu": "点单",
+      "milktea_cart": "购物车",
+      "milktea_profile": "我的"
     },
     "footer": {
       "cart": "购物车"
@@ -63,6 +103,38 @@
       "quantity": "数量",
       "reorder": "加入购物车",
       "total": "合计："
+    },
+    "milktea_home": {
+      "brand_title": "品牌介绍",
+      "brand_subtitle": "Brand Introduction",
+      "brand_p1": "某某奶茶店官网隶属某某餐饮管理有限公司旗下茶饮品牌，为大家提供加盟、条件、电话等信息，我们致力于奶茶产品的制作与研发深受消费者的追捧，让您在加盟有更好的了解。",
+      "brand_p2": "我们想要分享给顾客的就是茶的真味。为了给顾客带来纯粹纯正的好茶，团队注重的产品研发，坚持产品研发模式，并在总部设立专业实验室，致力于茶饮产品构思、配方研究及样品制造",
+      "brand_p3": "某某奶茶，家的味道，幸福的味道，天黑人归处，找回属于记忆里美时代的那份遗忘已久的人情味，忠实自然！某某奶茶店倾注一杯好茶时光，我们以大大的诚意，将这份人情味献给所有人，『某某奶茶店』就此诞生。",
+      "btn_learn_more": "了解更多",
+      "series_title": "产品系列",
+      "series_subtitle": "Product Categories",
+      "products_title": "产品中心",
+      "products_subtitle": "Product Center",
+      "shop_title": "店铺展示",
+      "shop_subtitle": "Shop Display",
+      "news_title": "新闻资讯",
+      "news_subtitle": "News",
+      "hotline_title": "加盟咨询热线",
+      "loading": "加载中或暂无产品数据..."
+    },
+    "inventory": {
+      "dashboard": "库存概览看板",
+      "inbound": "入库单",
+      "outbound": "出库单",
+      "check": "库存盘点",
+      "status_green": "安全",
+      "status_yellow": "临期",
+      "status_red": "过期",
+      "sku": "商品编号",
+      "unit": "单位",
+      "remaining_qty": "剩余数量",
+      "expiry_date": "到期日",
+      "reason": "操作原因"
     }
   }
 }
